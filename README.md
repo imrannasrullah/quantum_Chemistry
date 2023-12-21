@@ -1,1 +1,1 @@
-# quantum_Chemistry
+Code from Pennylane for quantum chemistry
